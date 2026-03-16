@@ -1,3 +1,5 @@
+[Day1_Screenshots.docx](https://github.com/user-attachments/files/26035665/Day1_Screenshots.docx)
+[day1_excel_data_analysis.xlsx](https://github.com/user-attachments/files/26035657/day1_excel_data_analysis.xlsx)
 ### **Day 1: Excel Data Analysis Task**
 
 ### **Objective**
