@@ -30,21 +30,21 @@ Created Pivot Tables to analyze:
 - Age by Test scores
 - Marks Category by Extra curricular time and Study hours
 
-### 📈 Visualization and Dashboard
+### Visualization and Dashboard
 
 - Created a chart to visualize Average test scores by Screen time
 - Created Scattered plot to visualize Test scores by Screentime
 
-## 🔍 Key Insights
+##  Key Insights
 
 -  Age wise 14 years has the highest test scores.
 -  Fail Students has the most extra curricular time.
 -  Screen time low has the lowest extra curricular time.
 
-## ▶️ How to View
+##  How to View
 Open the Excel file (.xlsx) using Microsoft Excel or Google Sheets.
 
-## 📷 Outputs
+##  Outputs
 Charts and analysis results are included in this folder.
 [student_screen_time.xlsx](https://github.com/user-attachments/files/26037068/student_screen_time.xlsx)
 
