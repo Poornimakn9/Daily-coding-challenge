@@ -37,5 +37,11 @@ An interactive dashboard was created with slicers for:
 - Microsoft Excel
 - PivotTables & PivotCharts
 - Data Visualization
+
+##  How to View
+Open the Excel file (.xlsx) using Microsoft Excel or Google Sheets.
+
+##  Outputs
+Charts and analysis results are included in this folder.
   
   [Child_Health.csv](https://github.com/user-attachments/files/26065406/Child_Health.csv)
