@@ -1,4 +1,4 @@
-# Day 2 — Student Screen Time Analysis Task
+## Day 2 — Student Screen Time Analysis Task
 
 ##  Objective
 Analyze the given Student Screen time dataset using Microsoft Excel.
