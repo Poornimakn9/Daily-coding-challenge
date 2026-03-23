@@ -65,6 +65,7 @@ Conditional Formatting: Highlight delays > 2 days
 Slicer: Region filter
 
 ##   Insights
+
 Only 47% of shipments are delivered on time, indicating poor performance
 Delays are consistent across all regions (system-wide issue)
 Bangalore, Bhubaneswar, and Hyderabad show high delays
