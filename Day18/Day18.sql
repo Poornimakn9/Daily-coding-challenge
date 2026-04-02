@@ -308,3 +308,19 @@ LEFT JOIN Likes l2 ON p2.post_id = l2.post_id
 LEFT JOIN Comments c ON u.user_id = c.user_id
 
 WHERE u.user_id = 3;
+
+
+
+DELIMITER $$
+CREATE PROCEDURE GetUserActivity(IN userId INT)
+BEGIN
+SELECT 
+        (SELECT COUNT(*) FROM Posts WHERE user_id = userId) AS total_posts,
+        (SELECT COUNT(*) FROM Likes WHERE user_id = userId) AS total_likes_given,
+        (SELECT COUNT(*)  FROM Likes l
+         JOIN Posts p ON l.post_id = p.post_id
+         WHERE p.user_id = userId) AS total_likes_received,
+        (SELECT COUNT(*) FROM Comments WHERE user_id = userId) AS total_comments;
+END $$
+DELIMITER ;
+CALL GetUserActivity(3);
