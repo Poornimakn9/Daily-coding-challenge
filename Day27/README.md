@@ -10,7 +10,7 @@ Each trip contains:
 
 ##  Dataset
 
-```python
+``python
 trips = (
     (101, "Bangalore", 12.5, 250),
     (102, "Hyderabad", 8.0, 180),
